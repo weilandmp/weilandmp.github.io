@@ -1,0 +1,28 @@
+@charset "utf-8";
+.pos {
+	position:relative;
+}
+.v1 {
+	padding-bottom:50.5%;
+	z-index:3;
+}
+
+.v2 {
+	padding-bottom:30%;
+	z-index:2;
+}
+
+.v3 {
+	padding-bottom:92%;
+	z-index:1;
+}
+
+.v4 {
+	z-index:0;
+}
+
+.child {
+	position:absolute;
+	top:0px;
+	width:100%
+}
